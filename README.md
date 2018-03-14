@@ -1,6 +1,2 @@
-# aaaaaafirst
-第一个项目
+# STUDYING HOW TO USE GITHUB
 
-
- what is mathematics?
- what is real?
