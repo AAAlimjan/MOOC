@@ -1,4 +1,4 @@
-live for
+code
 the meaning of life
 into 
 physics.
