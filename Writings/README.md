@@ -1,4 +1,5 @@
 
-[Diary] https://icity.ly/
+[Diary]
+(https://icity.ly/)
 
 dooda math
