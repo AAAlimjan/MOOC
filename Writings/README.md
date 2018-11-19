@@ -1,5 +1,2 @@
-
-[Diary]
-(https://icity.ly/)
-
-dooda math
+[Diary](https://icity.ly/)
+【Snappy words】(http://www.snappywords.com/)
