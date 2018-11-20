@@ -1,2 +1,1 @@
-
-CC notes.
+Crash Course catalog.
