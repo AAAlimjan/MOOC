@@ -11,3 +11,5 @@ W. Vincent Liu(刘文生教授)
 [Hyper Textbook](https://physics.info/)
 
 (Yuji Tachikawa)
+
+【Ideas from IAS】(https://www.ias.edu/ideas)
