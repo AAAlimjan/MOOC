@@ -17,3 +17,9 @@
 [CrashCourse](https://github.com/AAAlimjan/ComingBack/tree/master/CrashCourses) : a crashcourse notes
             
 [Writings](https://github.com/AAAlimjan/ComingBack/tree/master/Writings) : a list of things I wrote
+
+[GRE](https://github.com/AAAlimjan/ComingBack/tree/master/GRE)  : a GRE General notes
+
+[GRE Physics](https://github.com/AAAlimjan/ComingBack/tree/master/GREPHYSICS)  : a GRE Physics notes
+
+[GRE Mathematics](https://github.com/AAAlimjan/ComingBack/tree/master/GRE%20Mathematics)  : a GRE Mathematics notes
