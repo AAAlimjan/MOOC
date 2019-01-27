@@ -6,7 +6,7 @@ a wonderful world of : [Physics](https://github.com/AAAlimjan/ComingBack/blob/ma
 
 a way of making contribution with engineering: [Energy Engineering](https://github.com/AAAlimjan/ComingBack/tree/master/EnergyEngineering)
 
-a dance of mathematics and logic:[Software and Coding](https://github.com/AAAlimjan/ComingBack/tree/master/Coding)
+a dance of mathematics and logic : [Software and Coding](https://github.com/AAAlimjan/ComingBack/tree/master/Coding)
 
 a new language of : [Russian](https://github.com/AAAlimjan/ComingBack/tree/master/Studying%20Russian)
 
