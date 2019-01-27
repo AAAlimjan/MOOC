@@ -1,6 +1,6 @@
 #### The things workingt on in 2019
 
-the langguage of the universe : [Mathematics](https://github.com/AAAlimjan/ComingBack/tree/master/Mathematics)
+ [Mathematics](https://github.com/AAAlimjan/ComingBack/tree/master/Mathematics) : the langguage of the universe
 
 a wonderful world of : [Physics](https://github.com/AAAlimjan/ComingBack/blob/master/Physics/READM.md)
 
