@@ -12,8 +12,8 @@
 
 [Social Sciences](https://github.com/AAAlimjan/ComingBack/tree/master/Social%20Sciences) : a way of understanding the past
 
-[Readings](https://github.com/AAAlimjan/ComingBack/tree/master/Reading%20Challenge) : a place to put reading notes
+[Readings](https://github.com/AAAlimjan/ComingBack/tree/master/Reading%20Challenge) : a reading notes
 
-[CrashCourse](https://github.com/AAAlimjan/ComingBack/tree/master/CrashCourses) : a crashcourse learning notes
+[CrashCourse](https://github.com/AAAlimjan/ComingBack/tree/master/CrashCourses) : a crashcourse notes
             
 [Writings](https://github.com/AAAlimjan/ComingBack/tree/master/Writings) : a list of things I wrote
