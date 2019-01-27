@@ -14,6 +14,6 @@ a way of understanding the past : [Social Sciences](https://github.com/AAAlimjan
 
 a place to put reading notes : [Readings](https://github.com/AAAlimjan/ComingBack/tree/master/Reading%20Challenge)
 
-a crashcourse learning notes : [Crash Course](https://github.com/AAAlimjan/ComingBack/tree/master/CrashCourses)
+a crashcourse learning notes : [CrashCourse](https://github.com/AAAlimjan/ComingBack/tree/master/CrashCourses)
             
-a list of things I wrote ： [](https://github.com/AAAlimjan/ComingBack/tree/master/Writings)
+a list of things I wrote ： [Writings](https://github.com/AAAlimjan/ComingBack/tree/master/Writings)
