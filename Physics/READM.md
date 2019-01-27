@@ -1,5 +1,5 @@
 
-RG (https://www.researchgate.net/home)
+[RG] (https://www.researchgate.net/home)
 
 W. Vincent Liu(刘文生教授)
 (http://liu.phyast.pitt.edu/)
