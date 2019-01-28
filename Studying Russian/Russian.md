@@ -3,4 +3,5 @@
 
 * website:(http://www.russianforeveryone.com/)
 
-*College Russian V1 [Progeress](https://github.com/AAAlimjan/stuff2019/issues/6)
+* College Russian volume1
+[Progeress](https://github.com/AAAlimjan/stuff2019/issues/6)
