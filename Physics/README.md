@@ -1,5 +1,7 @@
 I :heart: Physics 
 
+[nature reviews](https://www.nature.com/natrevphys/)
+
 [RG home] (https://www.researchgate.net/home)
 
 W. Vincent Liu(刘文生教授)
@@ -9,7 +11,7 @@ W. Vincent Liu(刘文生教授)
 
 (https://www.pqi.org/members)
 
-[Hyper Textbook](https://physics.info/)
+【Hyper Textbook】 (https://physics.info/)
 
 【Yuji Tachikawa】（https://member.ipmu.jp/yuji.tachikawa/）
 
