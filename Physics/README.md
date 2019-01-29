@@ -1,7 +1,5 @@
 I :heart: Physics 
 
-[NatureReviews](https://www.nature.com/natrevphys/) [NatureCommunications](https://www.nature.com/commsphys/)
-
 [RG home] (https://www.researchgate.net/home)
 
 W. Vincent Liu(刘文生教授)
