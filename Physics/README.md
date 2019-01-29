@@ -1,6 +1,6 @@
 I :heart: Physics 
 
-[nature reviews](https://www.nature.com/natrevphys/)
+[NatureReviews](https://www.nature.com/natrevphys/) [NatureCommunications](https://www.nature.com/commsphys/)
 
 [RG home] (https://www.researchgate.net/home)
 
