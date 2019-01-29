@@ -4,4 +4,4 @@
 [The Crash Course Catalog](https://thecrashcourse.com/)
 
 - [ ] Sociology(https://www.bilibili.com/video/av8965753?from=search&seid=2662403787208828415)
-[Progress](https://github.com/AAAlimjan/STUFF-ON-2018/issues/5)
+:arrow_forward:[Progress](https://github.com/AAAlimjan/STUFF-ON-2018/issues/5)
