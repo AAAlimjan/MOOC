@@ -6,6 +6,7 @@
 
 * :heavy_minus_sign: [the transcripts](https://nerdfighteria.info/c/crashcourse/)
 
+
 - [] Physics (https://www.bilibili.com/video/av38506067)
 :arrow_forward:[Progress](https://github.com/AAAlimjan/stuff2019/issues/8)
 
