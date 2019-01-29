@@ -8,4 +8,4 @@ C#
 
 github decoration(https://shields.io/#/)
 
-Emoji（https://emoji.muan.co/）
+Emoji（https://emoji.muan.co）
