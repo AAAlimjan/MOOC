@@ -2,6 +2,7 @@
 
 [Snappy Words](http://www.snappywords.com/)
 
+http://www.silkroadfoundation.org/newsletter/vol3num1/3_uyghur.php
 
 wikisend：http://wikisend.com/
 
