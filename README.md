@@ -1,6 +1,6 @@
 ##### The projects I am working on in 2019
 
-[Mathematics](https://github.com/AAAlimjan/ComingBack/tree/master/Mathematics) : the langguage of the universe
+[Mathematics](https://github.com/AAAlimjan/ComingBack/tree/master/Mathematics) : the language of the universe
 
 [Physics](https://github.com/AAAlimjan/stuff2019/tree/master/Physics) : a wonderful world of
 
