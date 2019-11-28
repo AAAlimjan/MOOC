@@ -4,28 +4,28 @@
 
 [Physics](https://github.com/AAAlimjan/stuff2019/tree/master/Physics) 
 
-## [Energy Engineering](https://github.com/AAAlimjan/ComingBack/tree/master/EnergyEngineering)
+ [Energy Engineering](https://github.com/AAAlimjan/ComingBack/tree/master/EnergyEngineering)
 
-## [Software and Coding](https://github.com/AAAlimjan/ComingBack/tree/master/Coding) 
+[Software and Coding](https://github.com/AAAlimjan/ComingBack/tree/master/Coding) 
 
-## [Russian](https://github.com/AAAlimjan/ComingBack/tree/master/Studying%20Russian)
+ [Russian](https://github.com/AAAlimjan/ComingBack/tree/master/Studying%20Russian)
 
-## [Social Sciences](https://github.com/AAAlimjan/ComingBack/tree/master/Social%20Sciences) 
+[Social Sciences](https://github.com/AAAlimjan/ComingBack/tree/master/Social%20Sciences) 
 
-## [Reading Notes](https://github.com/AAAlimjan/ComingBack/tree/master/Reading%20Challenge) 
+[Reading Notes](https://github.com/AAAlimjan/ComingBack/tree/master/Reading%20Challenge) 
 
-## [CrashCourses](https://github.com/AAAlimjan/ComingBack/tree/master/CrashCourses) 
+[CrashCourses](https://github.com/AAAlimjan/ComingBack/tree/master/CrashCourses) 
 
-## [Articles](https://github.com/AAAlimjan/ComingBack/tree/master/Writings) 
+ [Articles](https://github.com/AAAlimjan/ComingBack/tree/master/Writings) 
 
-## [GRE](https://github.com/AAAlimjan/ComingBack/tree/master/GRE) 
+ [GRE](https://github.com/AAAlimjan/ComingBack/tree/master/GRE) 
 
-## [GRE Physics](https://github.com/AAAlimjan/ComingBack/tree/master/GRE%20Physics) 
+ [GRE Physics](https://github.com/AAAlimjan/ComingBack/tree/master/GRE%20Physics) 
 
-## [GRE Mathematics](https://github.com/AAAlimjan/ComingBack/tree/master/GRE%20Mathematics)  
+[GRE Mathematics](https://github.com/AAAlimjan/ComingBack/tree/master/GRE%20Mathematics)  
 
-## [TOEFL](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/TOEFL) 
+ [TOEFL](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/TOEFL) 
 
-## [MOOC](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/MOOC)
+[MOOC](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/MOOC)
 
-## [Organizations&Journals](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/Organizations%20&%20Journals)
+ [Organizations&Journals](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/Organizations%20&%20Journals)
