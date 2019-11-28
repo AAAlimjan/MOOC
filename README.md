@@ -1,25 +1,25 @@
-##### The projects I am working on in 2019
+##### These are the things I am learning
 
-[Mathematics](https://github.com/AAAlimjan/ComingBack/tree/master/Mathematics) : the language of the universe
+## [Mathematics](https://github.com/AAAlimjan/ComingBack/tree/master/Mathematics) : the language of the universe
 
-[Physics](https://github.com/AAAlimjan/stuff2019/tree/master/Physics) : a world of matter & mind 
+## [Physics](https://github.com/AAAlimjan/stuff2019/tree/master/Physics) : a world of matter & mind 
 
-[Energy Engineering](https://github.com/AAAlimjan/ComingBack/tree/master/EnergyEngineering): a way of reshaping the world
+## [Energy Engineering](https://github.com/AAAlimjan/ComingBack/tree/master/EnergyEngineering): a way of reshaping the world
 
-[Software and Coding](https://github.com/AAAlimjan/ComingBack/tree/master/Coding) : a dance of mathematics and logic
+## [Software and Coding](https://github.com/AAAlimjan/ComingBack/tree/master/Coding) : a dance of mathematics and logic
 
-[Russian](https://github.com/AAAlimjan/ComingBack/tree/master/Studying%20Russian) : a new language 
+## [Russian](https://github.com/AAAlimjan/ComingBack/tree/master/Studying%20Russian) : a new language 
 
-[Social Sciences](https://github.com/AAAlimjan/ComingBack/tree/master/Social%20Sciences) : a way of understanding the past
+## [Social Sciences](https://github.com/AAAlimjan/ComingBack/tree/master/Social%20Sciences) : a way of understanding the past
 
-[Readings](https://github.com/AAAlimjan/ComingBack/tree/master/Reading%20Challenge) : a reading note
+## [Reading Notes](https://github.com/AAAlimjan/ComingBack/tree/master/Reading%20Challenge) : a reading note
 
-[CrashCourse](https://github.com/AAAlimjan/ComingBack/tree/master/CrashCourses) : a crashcourse note
-            
-[Writings](https://github.com/AAAlimjan/ComingBack/tree/master/Writings) : a list of things I wrote
+## [CrashCourses](https://github.com/AAAlimjan/ComingBack/tree/master/CrashCourses) : a crashcourse note
 
-[GRE](https://github.com/AAAlimjan/ComingBack/tree/master/GRE)  : a GRE General note
+## [Articles](https://github.com/AAAlimjan/ComingBack/tree/master/Writings) : a list of things I wrote
 
-[GRE Physics](https://github.com/AAAlimjan/ComingBack/tree/master/GRE%20Physics)  : a GRE Physics note
+## [GRE](https://github.com/AAAlimjan/ComingBack/tree/master/GRE)  : a GRE General note
 
-[GRE Mathematics](https://github.com/AAAlimjan/ComingBack/tree/master/GRE%20Mathematics)  : a GRE Mathematics note
+## [GRE Physics](https://github.com/AAAlimjan/ComingBack/tree/master/GRE%20Physics)  : a GRE Physics note
+
+## [GRE Mathematics](https://github.com/AAAlimjan/ComingBack/tree/master/GRE%20Mathematics)  : a GRE Mathematics note
