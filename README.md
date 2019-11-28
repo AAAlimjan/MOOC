@@ -1,4 +1,4 @@
-### These are the things I am learning ###
+this is a resource menu, see [Progress](https://github.com/AAAlimjan/Study-Notes-2019/projects) and [Accomplishments](https://github.com/AAAlimjan/Study-Notes-2019/wiki)
 
 [Mathematics](https://github.com/AAAlimjan/ComingBack/tree/master/Mathematics) 
 
