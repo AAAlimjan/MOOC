@@ -27,3 +27,5 @@
 ## [TOEFL](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/TOEFL) 
 
 ## [MOOC](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/MOOC)
+
+## [Organizations&Journals](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/Organizations%20&%20Journals)
