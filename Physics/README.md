@@ -14,3 +14,5 @@ W. Vincent Liu(刘文生教授)
 【Yuji Tachikawa】（https://member.ipmu.jp/yuji.tachikawa/）
 
 【Ideas from IAS】(https://www.ias.edu/ideas)
+
+[Acoustics and Vibration Animations](https://www.acs.psu.edu/drussell/Demos/waves-intro/waves-intro.html)
