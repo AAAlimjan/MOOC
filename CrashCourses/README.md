@@ -1,5 +1,8 @@
 :classical_building: 
->There are no secrets about the world of nature.There are secrets about the thoughts&intentions of men. -Oppenheimer
+
+>There are no secrets about the world of nature.There are secrets about the thoughts&intentions of men.
+
+>-Oppenheimer
 
 * [The Crash Course Catalog](https://thecrashcourse.com/)   
 
