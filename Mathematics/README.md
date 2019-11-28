@@ -11,5 +11,7 @@ http://math.ucr.edu/home/baez/diary/february_2019.html
 
 https://plus.maths.org/content/
 
+[SOS Math](http://www.sosmath.com/index.html)
 
+[Calculus at Peen](https://www.math.upenn.edu/undergraduate/calculus-homepages/calculus/mathematics-104)
 
