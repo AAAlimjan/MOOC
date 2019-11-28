@@ -1,8 +1,8 @@
-### These are the things I am learning
+### These are the things I am learning ###
 
-## [Mathematics](https://github.com/AAAlimjan/ComingBack/tree/master/Mathematics) 
+[Mathematics](https://github.com/AAAlimjan/ComingBack/tree/master/Mathematics) 
 
-## [Physics](https://github.com/AAAlimjan/stuff2019/tree/master/Physics) 
+[Physics](https://github.com/AAAlimjan/stuff2019/tree/master/Physics) 
 
 ## [Energy Engineering](https://github.com/AAAlimjan/ComingBack/tree/master/EnergyEngineering)
 
