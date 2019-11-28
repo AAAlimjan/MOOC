@@ -1,10 +1,6 @@
-the LATEX project：（https://www.latex-project.org/）
 
-ooverleaf：Creating a document in LaTeX
-（https://www.overleaf.com/learn/latex/Creating_a_document_in_LaTeX 
 
 math writer：（https://www.codecogs.com/latex/eqneditor.php?lang=zh-cn）
-
 
 （https://www.latex4technics.com/）
 
@@ -20,3 +16,11 @@ Emoji：（https://emoji.muan.co）
 牛客网：（https://www.nowcoder.com/courses）
 
 菜鸟教程：(https://www.runoob.com/)
+
+[3W School](http://www.w3school.com.cn/index.html)
+
+[Latex edit online](http://www.funnyai.com/Math/LatexEditor.htm)
+
+[ShareLatex](https://cn.sharelatex.com/)
+
+[Overleaf Latex](https://www.overleaf.com/)
