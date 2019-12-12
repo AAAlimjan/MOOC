@@ -24,3 +24,9 @@ Emoji：（https://emoji.muan.co）
 [ShareLatex](https://cn.sharelatex.com/)
 
 [Overleaf Latex](https://www.overleaf.com/)
+
+https://cn.udacity.com/
+
+https://wepyjs.github.io/wepy-docs/
+
+https://coding.net/
