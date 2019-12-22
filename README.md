@@ -13,3 +13,4 @@ this is a studyproject menu, see [Progress](https://github.com/AAAlimjan/Study-N
 - [TOEFL](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/TOEFL) 
 - [MOOC](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/MOOC)
 - [People+Organizations+Journals+Blogs](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/Organizations%20&%20Journals)
+- [projects for fun]()
