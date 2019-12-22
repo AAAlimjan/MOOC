@@ -34,11 +34,9 @@ https://octodex.github.com/
 
 [Hyperphysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)||[Nature](https://www.nature.com/)||[arxiv](https://arxiv.org/)||[Quantum Foundations](http://www.ijqf.org/)||[Frontiers](https://www.frontiersin.org/)||[Quantamagazine](https://www.quantamagazine.org/)||[Entropy](https://www.mdpi.com/journal/entropy)||[Institute for Q.Information](http://iqim.caltech.edu/)||[MIT Tech Review](https://www.technologyreview.com/)||[Media Lab](https://www.media.mit.edu/)||[Archives Caltech](http://archives.caltech.edu/)||[Mathworld Wolfram](http://mathworld.wolfram.com/)
 
-# Courses& Searches
+# Courses& Blogs
 
 [How to become a GOOD Theoretical Physicist](http://www.staff.science.uu.nl/~gadda001/goodtheorist/index.html)
-
-[MIT OCW](https://ocw.mit.edu/index.htm)
 
 [Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
 
@@ -71,16 +69,6 @@ https://octodex.github.com/
 [Philpapers](https://philpapers.org/)
 
 # More
-
-[慕课-程序员梦工厂](https://www.imooc.com/)
-
-[Coursera](https://www.coursera.org/courses)
-
-[网易云课堂](https://study.163.com/)
-
-[菜鸟编程](http://www.runoob.com/cprogramming/c-tutorial.html)
-
-[腾讯大学](https://daxue.qq.com/)
 
 [Endnote 在线](https://access.clarivate.com/login?app=endnote)
 
