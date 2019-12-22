@@ -27,6 +27,37 @@
 
 
 
+- Schools & Communities
+[Stack Exchange](https://physics.stackexchange.com/)
+[APS](https://www.aps.org/)
+[小木虫](http://muchong.com/bbs/)
+[科学网](http://www.sciencenet.cn/)
+[未来科学奖](http://futureforum.org.cn/Home/nav/155.html)
+[Nobel Prize](https://www.nobelprize.org/)
+[PISRA Library](http://pirsa.org/search)
+[PI](https://insidetheperimeter.ca/)
+[FQXI](https://fqxi.org/community)
+
+
+
+
+
+
+- Publications, Blogs & Archives
+[Hyperphysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
+[Nature](https://www.nature.com/)
+[arxiv](https://arxiv.org/)
+[Quantum Foundations](http://www.ijqf.org/)
+[Frontiers](https://www.frontiersin.org/)
+[Quantamagazine](https://www.quantamagazine.org/)
+[Entropy](https://www.mdpi.com/journal/entropy)
+[Institute for Q.Information](http://iqim.caltech.edu/)
+[MIT Tech Review](https://www.technologyreview.com/)
+[Media Lab](https://www.media.mit.edu/)
+[Archives Caltech](http://archives.caltech.edu/)
+[Mathworld Wolfram](http://mathworld.wolfram.com/)
+[Final Answers 2 Quantum Mechanics](http://www.numericana.com/answer/quantum.htm#logic)
+[Symmetry](https://www.symmetrymagazine.org/)
 
 
 
