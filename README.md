@@ -1,4 +1,4 @@
-this is a studyproject menu, see [Progress](https://github.com/AAAlimjan/Study-Notes-2019/projects) and [Project-Notes](https://github.com/AAAlimjan/Study-Notes-2019/wiki)
+this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-Notes-2019/projects) and [Project-Notes](https://github.com/AAAlimjan/Study-Notes-2019/wiki)
 
 ------
 
