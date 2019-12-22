@@ -16,4 +16,4 @@ this is a resource menu, see [Progress](https://github.com/AAAlimjan/Study-Notes
 - [GRE Mathematics](https://github.com/AAAlimjan/ComingBack/tree/master/GRE%20Mathematics)  
 -  [TOEFL](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/TOEFL) 
 - [MOOC](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/MOOC)
--  [Organizations&Journals](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/Organizations%20&%20Journals)
+-  [Organizations&Journals&Blogs](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/Organizations%20&%20Journals)
