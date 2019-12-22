@@ -1,15 +1,10 @@
-
-
-math writer：（https://www.codecogs.com/latex/eqneditor.php?lang=zh-cn）
-
-（https://www.latex4technics.com/）
+Latex:
 
 latex 教程：（http://liuchengxu.org/blog-cn/posts/quick-latex/）
 
+Math Writer：（https://www.codecogs.com/latex/eqneditor.php?lang=zh-cn）latex +（https://www.latex4technics.com/）
 
-ENDNOTE
-
-github decoration：(https://shields.io/#/)
+Github decoration：(https://shields.io/#/)
 
 Emoji：（https://emoji.muan.co）
 
@@ -30,3 +25,5 @@ https://cn.udacity.com/
 https://wepyjs.github.io/wepy-docs/
 
 https://coding.net/
+
+#EndNote
