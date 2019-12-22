@@ -8,7 +8,7 @@ this is a resource menu, see [Progress](https://github.com/AAAlimjan/Study-Notes
 - [Software and Coding](https://github.com/AAAlimjan/ComingBack/tree/master/Coding) 
 -  [Russian](https://github.com/AAAlimjan/ComingBack/tree/master/Studying%20Russian)
 - [Social Sciences](https://github.com/AAAlimjan/ComingBack/tree/master/Social%20Sciences) 
-- [Reading Notes](https://github.com/AAAlimjan/ComingBack/tree/master/Reading%20Challenge) 
+- [Reading&Writing Notes](https://github.com/AAAlimjan/ComingBack/tree/master/Reading%20Challenge) 
 - [CrashCourses](https://github.com/AAAlimjan/ComingBack/tree/master/CrashCourses) 
 -  [Articles](https://github.com/AAAlimjan/ComingBack/tree/master/Writings) 
 -  [GRE](https://github.com/AAAlimjan/ComingBack/tree/master/GRE) 
