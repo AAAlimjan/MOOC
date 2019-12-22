@@ -26,7 +26,7 @@
 
 [万门大学](https://www.wanmen.org/)
 
-[ClassCenteral] https://www.classcentral.com/ 
+[ClassCenteral](https://www.classcentral.com/)
 
 [Open University](https://www.open.edu/openlearn/)
 
