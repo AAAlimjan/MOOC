@@ -2,12 +2,11 @@
 
 * Play with mathematics(http://mathstud.io/)
 
-* 高等数学『上海交大版本』(https://www.bilibili.com/video/av19027609) 
+* 高等数学『上海交大版』(https://www.bilibili.com/video/av19027609) 
 
 * Study Progress(https://github.com/AAAlimjan/stuff2019/issues/7)
 
 http://math.ucr.edu/home/baez/diary/february_2019.html
-
 
 https://plus.maths.org/content/
 
@@ -15,3 +14,5 @@ https://plus.maths.org/content/
 
 [Calculus at Peen](https://www.math.upenn.edu/undergraduate/calculus-homepages/calculus/mathematics-104)
 
+## 吉米多维奇数学分析习题集 
+[>学习进度](https://github.com/AAAlimjan/Study-Notes-2019/projects/6?fullscreen=true)
