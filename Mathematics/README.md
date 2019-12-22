@@ -14,5 +14,3 @@ https://plus.maths.org/content/
 
 [Calculus at Peen](https://www.math.upenn.edu/undergraduate/calculus-homepages/calculus/mathematics-104)
 
-## 吉米多维奇数学分析习题集 
-[>学习进度](https://github.com/AAAlimjan/Study-Notes-2019/projects/6?fullscreen=true)
