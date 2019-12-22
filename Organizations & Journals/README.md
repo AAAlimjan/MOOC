@@ -1,6 +1,8 @@
 - People
 
- [Albert Einstein](https://einsteinpapers.press.princeton.edu/)|[Richard Feynman](http://www.feynman.com/)
+ [Albert Einstein](https://einsteinpapers.press.princeton.edu/)
+ 
+ [Richard Feynman](http://www.feynman.com/)
 
 [Frank Wilczek](https://www.frankawilczek.com)
 
