@@ -3,7 +3,7 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
 ------
 
 - [Mathematics](https://github.com/AAAlimjan/ComingBack/tree/master/Mathematics) 
-   *吉米多维奇数学分析习题集
+   >吉米多维奇数学分析习题集
 - [Physics](https://github.com/AAAlimjan/stuff2019/tree/master/Physics) 
 - [EnergyEngineering](https://github.com/AAAlimjan/ComingBack/tree/master/EnergyEngineering)
 - [Programs+Coding](https://github.com/AAAlimjan/ComingBack/tree/master/Coding) 
