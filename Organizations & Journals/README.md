@@ -7,11 +7,11 @@ https://octodex.github.com/
  
  [Frank Wilczek](https://web.mit.edu/physics/people/faculty/wilczek_frank.html)
  
- Sheldon Goldstein: [(Mathematical Physics)](http://sites.math.rutgers.edu/~oldstein/quote.html)
+ [Sheldon Goldstein:(Mathematical Physics)](http://sites.math.rutgers.edu/~oldstein/quote.html)
  
- Michael Fowler: [Modern Physics Lectures](http://galileo.phys.virginia.edu/classes/252/home.html)
+ [Michael Fowler:Modern Physics Lectures](http://galileo.phys.virginia.edu/classes/252/home.html)
  
- Leonard Susskind: [The Theoretical Minimum](http://theoreticalminimum.com)
+ [Leonard Susskind:The Theoretical Minimum](http://theoreticalminimum.com)
  
  [John Preskill Caltech](http://www.theory.caltech.edu/people/preskill/index.html)
  
@@ -34,9 +34,22 @@ https://octodex.github.com/
 
 # Courses& Searches
 [How to become a GOOD Theoretical Physicist](http://www.staff.science.uu.nl/~gadda001/goodtheorist/index.html)
-[MIT OCW](https://ocw.mit.edu/index.htm)||[Digital Library of Mathematical Functions](https://dlmf.nist.gov/)||[XCircuit](http://opencircuitdesign.com/xcircuit/)||[Quantum Physics,Depth Psychology,and Beyond](http://www.integralscience.org/psyche-physis.html#fn3)||[David Tong: Lectures on Theoretical Physics](http://www.damtp.cam.ac.uk/user/tong/teaching.html)||||[Cosmology](http://abyss.uoregon.edu/~js/cosmo/index.html)
 
-||[Quantum Gravity](http://www.damtp.cam.ac.uk/research/gr/public/qg_home.html)||[Dnatube: Sciencific videos](https://www.dnatube.com/)
+[MIT OCW](https://ocw.mit.edu/index.htm)
+
+[Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
+
+[XCircuit](http://opencircuitdesign.com/xcircuit/)
+
+[Quantum Physics,Depth Psychology,and Beyond](http://www.integralscience.org/psyche-physis.html#fn3)
+
+[David Tong: Lectures on Theoretical Physics](http://www.damtp.cam.ac.uk/user/tong/teaching.html)
+
+[Cosmology](http://abyss.uoregon.edu/~js/cosmo/index.html)
+
+[Quantum Gravity](http://www.damtp.cam.ac.uk/research/gr/public/qg_home.html)
+
+[Dnatube: Sciencific videos](https://www.dnatube.com/)
 
 [Skills and Strategies for Effective Learning](https://www.asa3.org/ASA/education/learn/study-skills.htm#i)
 
