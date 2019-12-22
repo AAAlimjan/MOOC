@@ -1,9 +1,9 @@
 
 # 编程教程：
 
-慕课-程序员梦工厂:(https://www.imooc.com/)
+慕课-程序员梦工厂: (https://www.imooc.com/)
 
-网易云课堂:(https://study.163.com/)
+网易云课堂: (https://study.163.com/)
 
 牛客网：（https://www.nowcoder.com/courses）
 
@@ -11,9 +11,9 @@
 
 3W School：(http://www.w3school.com.cn/index.html)
 
-Udacity：https://cn.udacity.com/)
+Udacity：(https://cn.udacity.com/)
 
-腾讯大学:(https://daxue.qq.com/)
+腾讯大学: (https://daxue.qq.com/)
 
 # Latex:
 
