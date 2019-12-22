@@ -9,7 +9,6 @@ this is a resource menu, see [Progress](https://github.com/AAAlimjan/Study-Notes
 -  [Russian](https://github.com/AAAlimjan/ComingBack/tree/master/Studying%20Russian)
 - [Social Sciences](https://github.com/AAAlimjan/ComingBack/tree/master/Social%20Sciences) 
 - [Reading&Writing Notes](https://github.com/AAAlimjan/ComingBack/tree/master/Reading%20Challenge) 
-- [CrashCourses](https://github.com/AAAlimjan/ComingBack/tree/master/CrashCourses) 
 -  [GRE](https://github.com/AAAlimjan/ComingBack/tree/master/GRE) 
 -  [TOEFL](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/TOEFL) 
 - [MOOC](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/MOOC)
