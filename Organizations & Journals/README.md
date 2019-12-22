@@ -1,6 +1,6 @@
 - People
 
- [Albert Einstein](https://einsteinpapers.press.princeton.edu/)|[Richard Feynman](http://www.basicfeynman.com/links.html 
+ [Albert Einstein](https://einsteinpapers.press.princeton.edu/)|[Richard Feynman](http://www.basicfeynman.com/links.html)
 
                  http://www.feynman.com/
 
