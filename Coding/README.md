@@ -4,11 +4,11 @@ latex 教程：（http://liuchengxu.org/blog-cn/posts/quick-latex/）
 
 Math Writer：（https://www.codecogs.com/latex/eqneditor.php?lang=zh-cn）
 
-[Latex edit online](http://www.funnyai.com/Math/LatexEditor.htm)
+Latex edit online:(http://www.funnyai.com/Math/LatexEditor.htm)
 
-[ShareLatex](https://cn.sharelatex.com/)
+ShareLatex:(https://cn.sharelatex.com/)
 
-[Overleaf Latex](https://www.overleaf.com/)
+Overleaf Latex:(https://www.overleaf.com/)
 
 
 # 编程教程：
