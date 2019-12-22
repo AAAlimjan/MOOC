@@ -1,15 +1,3 @@
-# Latex:
-
-latex 教程：（http://liuchengxu.org/blog-cn/posts/quick-latex/）
-
-Math Writer：（https://www.codecogs.com/latex/eqneditor.php?lang=zh-cn）
-
-Latex edit online:(http://www.funnyai.com/Math/LatexEditor.htm)
-
-ShareLatex:(https://cn.sharelatex.com/)
-
-Overleaf Latex:(https://www.overleaf.com/)
-
 
 # 编程教程：
 
@@ -27,13 +15,21 @@ Udacity：https://cn.udacity.com/)
 
 腾讯大学:(https://daxue.qq.com/)
 
+# Latex:
+
+latex 教程：（http://liuchengxu.org/blog-cn/posts/quick-latex/）
+
+Math Writer：（https://www.codecogs.com/latex/eqneditor.php?lang=zh-cn）
+
+Latex edit online:(http://www.funnyai.com/Math/LatexEditor.htm)
+
+ShareLatex:(https://cn.sharelatex.com/)
+
+Overleaf Latex:(https://www.overleaf.com/)
 
 # 小程序开发：
 
 https://wepyjs.github.io/wepy-docs/
-
-
-
 
 
 # 其他
