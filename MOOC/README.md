@@ -14,8 +14,6 @@
 
 [edX](https://www.edx.org/)
 
-[edX 课程搜索](https://www.class-central.com/)
-
 [Yale Open Courses](https://oyc.yale.edu/courses)
 
 [Stanford Lagunita](https://lagunita.stanford.edu/)
