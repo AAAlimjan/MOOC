@@ -11,8 +11,6 @@ this is a resource menu, see [Progress](https://github.com/AAAlimjan/Study-Notes
 - [Reading&Writing Notes](https://github.com/AAAlimjan/ComingBack/tree/master/Reading%20Challenge) 
 - [CrashCourses](https://github.com/AAAlimjan/ComingBack/tree/master/CrashCourses) 
 -  [GRE](https://github.com/AAAlimjan/ComingBack/tree/master/GRE) 
--  [GRE Physics](https://github.com/AAAlimjan/ComingBack/tree/master/GRE%20Physics) 
-- [GRE Mathematics](https://github.com/AAAlimjan/ComingBack/tree/master/GRE%20Mathematics)  
 -  [TOEFL](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/TOEFL) 
 - [MOOC](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/MOOC)
 -  [Organizations&Journals&Blogs](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/Organizations%20&%20Journals)
