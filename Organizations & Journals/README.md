@@ -1,5 +1,3 @@
-https://octodex.github.com/
-
 #  People:
 
  [Albert Einstein](https://einsteinpapers.press.princeton.edu/)
