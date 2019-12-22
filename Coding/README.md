@@ -1,4 +1,4 @@
-#Latex:
+# Latex:
 
 latex 教程：（http://liuchengxu.org/blog-cn/posts/quick-latex/）
 
@@ -11,7 +11,7 @@ Math Writer：（https://www.codecogs.com/latex/eqneditor.php?lang=zh-cn）
 [Overleaf Latex](https://www.overleaf.com/)
 
 
-#编程教程：
+# 编程教程：
 
 慕课-程序员梦工厂:(https://www.imooc.com/)
 
@@ -28,7 +28,7 @@ Udacity：https://cn.udacity.com/)
 腾讯大学:(https://daxue.qq.com/)
 
 
-#小程序开发：
+# 小程序开发：
 
 https://wepyjs.github.io/wepy-docs/
 
@@ -36,7 +36,7 @@ https://wepyjs.github.io/wepy-docs/
 
 
 
-#其他
+# 其他
 
 https://coding.net/
 
