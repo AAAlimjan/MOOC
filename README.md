@@ -12,4 +12,4 @@ this is a resource menu, see [Progress](https://github.com/AAAlimjan/Study-Notes
 -  [GRE](https://github.com/AAAlimjan/ComingBack/tree/master/GRE) 
 -  [TOEFL](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/TOEFL) 
 - [MOOC](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/MOOC)
--  [Organizations&Journals&Blogs](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/Organizations%20&%20Journals)
+-  [People+Organizations+Journals+Blogs](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/Organizations%20&%20Journals)
