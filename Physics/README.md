@@ -16,3 +16,5 @@ W. Vincent Liu(刘文生教授)
 【Ideas from IAS】(https://www.ias.edu/ideas)
 
 [Acoustics and Vibration Animations](https://www.acs.psu.edu/drussell/Demos/waves-intro/waves-intro.html)
+
+[feyman lectures](https://www.feynmanlectures.caltech.edu/)
