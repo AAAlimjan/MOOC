@@ -22,7 +22,7 @@
 
 [公开课目录](http://v.qq.com/zt2011/open/index.htm)
 
-[B站](https://www.bilibili.com/)
+[哔哩哔哩](https://www.bilibili.com/)
 
 [万门大学](https://www.wanmen.org/)
 
@@ -33,3 +33,4 @@
 [Coursera](https://www.coursera.org/courses)
 
 [慕课网-程序员梦工厂](https://www.imooc.com/)
+
