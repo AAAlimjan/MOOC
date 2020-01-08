@@ -11,3 +11,6 @@ http://irenechen.net/reading-list
 https://mitaiethics.github.io/
 
 [传送门](https://chuansongme.com/)
+
+[FT中文](http://www.ftchinese.com/)
+
