@@ -40,4 +40,8 @@ Github decoration：(https://shields.io/#/)
 
 Emoji：（https://emoji.muan.co）
 
-EndNote
+EndNote:
+
+[V2EX](https://www.v2ex.com/)
+
+
