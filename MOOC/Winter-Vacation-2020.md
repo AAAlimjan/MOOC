@@ -45,5 +45,5 @@ src="https://github.com/AAAlimjan/Study-Projects/blob/master/MOOC/20200123.png">
 <div style="color:orange; border-bottom: 1px solid #d9d9d9;
 display: inline-block;
 color: #999;
-padding: 2px;">2020 WINTER</div>
+padding: 2px;">2020</div>
 </center>
