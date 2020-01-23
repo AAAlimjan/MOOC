@@ -35,9 +35,7 @@ Reading List
 - [ ] 6.the sacred routs of Uighur history
 - [ ] 7.the big picture 
 
-<div align=center>![2020](https://github.com/AAAlimjan/Study-Projects/blob/master/MOOC/20200123.png)
 
-![PLAN](C:\Users\Alimjan\Desktop\20200123.png)
 
 <center>
 <img style="border-radius: 0.3125em;
