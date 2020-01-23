@@ -21,5 +21,20 @@ section GRE
 T3:2020-01-20, 9d
 section 假期时长
 T3:2020-01-25, 10d
+section 阅读挑战
+什么是物理学 * 美丽之问 * 薛兆丰经济学讲义 * 大问题 * the big picture * the sacred roots of uighur history:2020-01-22, 30d
 ```
 
+Reading List
+
+- [ ] 1.三体
+- [ ] 2.薛兆丰经济学讲义
+- [ ] 3.美丽之问
+- [ ] 4.大问题
+- [ ] 5.什么是物理学
+- [ ] 6.the sacred routs of Uighur history
+- [ ] 7.the big picture 
+
+<div align=center>![2020](https://github.com/AAAlimjan/Study-Projects/blob/master/MOOC/20200123.png)
+
+![PLAN](C:\Users\Alimjan\Desktop\20200123.png)
