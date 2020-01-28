@@ -1,5 +1,7 @@
 [Reading List 2018](https://github.com/AAAlimjan/STUFF-ON-2018/issues/2)
 
+微信读书：https://weread.qq.com/
+
 [Diary](https://icity.ly/)
 
 [Snappy Words](http://www.snappywords.com/)
