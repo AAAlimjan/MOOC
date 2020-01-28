@@ -5,6 +5,8 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
 [Mathematics](https://github.com/AAAlimjan/ComingBack/tree/master/Mathematics) 
 
 >- [ ] 吉米多维奇数学分析习题集
+>- [ ] 高等数学：https://next.xuetangx.com/course/SXPI11111000464/1157975
+>- [ ] 线性代数：https://next.xuetangx.com/course/SDU07011000459/1075690
 
 [Physics](https://github.com/AAAlimjan/stuff2019/tree/master/Physics) 
 
@@ -20,6 +22,14 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
 [Social Sciences](https://github.com/AAAlimjan/ComingBack/tree/master/Social%20Sciences) 
 
 [Reading+Writing](https://github.com/AAAlimjan/ComingBack/tree/master/Reading%20Challenge) 
+
+> - [ ] 1.三体
+> - [ ] 2.薛兆丰经济学讲义
+> - [ ] 3.美丽之问
+> - [ ] 4.大问题
+> - [ ] 5.什么是物理学
+> - [ ] 6.The Sacred Routs of Our History
+> - [ ] 7.The Big Picture 
 
 [GRE](https://github.com/AAAlimjan/ComingBack/tree/master/GRE) 
 
