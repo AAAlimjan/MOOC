@@ -9,7 +9,11 @@
 WestWorld: https://ddrk.me/westworld/2/
 
 design:https://dribbble.com
+
 https://uiiiuiii.com/all
+
 http://www.fubiz.net/
+
 https://www.canva.com/
+
 https://logopond.com
