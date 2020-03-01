@@ -36,12 +36,15 @@ https://wepyjs.github.io/wepy-docs/
 
 https://coding.net/
 
-Github decoration：(https://shields.io/#/)
+GitHub decoration：(https://shields.io/#/)
 
 Emoji：（https://emoji.muan.co）
 
 EndNote:
 
-[V2EX](https://www.v2ex.com/)
+V2EX: way to explore https://www.v2ex.com 
 
-GITEE： chinese github(https://gitee.com/)
+Gitee ：Chinese GitHub copycat (https://gitee.com/)
+
+Chocolatey: https://chocolatey.org/packages/
+
