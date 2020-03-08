@@ -1,6 +1,6 @@
 :classical_building: 
 
->There are no secrets about the world of nature.There are secrets about the thoughts&intentions of men.
+>There are no secrets about the world of nature. There are secrets about the thoughts&intentions of men.
 >
 >-Oppenheimer
 
