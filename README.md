@@ -37,11 +37,6 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
 
  -  1.三体
  -  2.薛兆丰经济学讲义
- -  3.美丽之问
- -  4.大问题
- -  5.什么是物理学
- -  6.The Sacred Routs of Our History
- -  7.The Big Picture 
 
 # [GRE](https://github.com/AAAlimjan/ComingBack/tree/master/GRE)
 
