@@ -30,7 +30,7 @@
 
 [Yuval Noah Harrari](https://www.ynharari.com/book/homo-deus/) 
 
-
+[Charlotte Minsky](https://charlotteminsky.com/)
 
 #  Schools & Communities
 
