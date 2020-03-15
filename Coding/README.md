@@ -48,3 +48,5 @@ Gitee ：Chinese GitHub copycat (https://gitee.com/)
 
 Chocolatey: https://chocolatey.org/packages/
 
+https://mlcourse.ai/
+

@@ -13,8 +13,6 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
 
 - Crash Course: Engineering
 
-
-
 # [Computer Science ](https://github.com/AAAlimjan/ComingBack/tree/master/Coding)
 
  - *C语言入门*：https://www.imooc.com/learn/249
@@ -22,6 +20,7 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
  - [C语言入门](https://www.imooc.com/learn/249)，慕课
 - [版本控制入门 – 搬进 Github](https://www.imooc.com/learn/390)，慕课
 - [HTML5&CSS实战课](https://www.w3cschool.cn/codecamp/list?pename=html5_and_css_camp)，W3C School
+- 
 
 # [Language Studies](https://github.com/AAAlimjan/ComingBack/tree/master/Studying%20Russian)
 
@@ -32,6 +31,7 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
 - General Philosophy (University of Oxford)
 - Crash Course: World History
 - Crash Course: Big History 
+- Crash Course: Economics
 
 # [Reading+Writing](https://github.com/AAAlimjan/ComingBack/tree/master/Reading%20Challenge) 
 
