@@ -44,6 +44,8 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
 
 # [MOOC](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/MOOC)
 
+
+
 # [People+Organizations+Journals+Blogs](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/Organizations%20&%20Journals)
 
 # [Ideas&Tools](https://github.com/AAAlimjan/Study-Projects/tree/master/Fun)
