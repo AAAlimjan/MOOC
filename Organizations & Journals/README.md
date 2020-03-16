@@ -1,5 +1,7 @@
 #  People:
 
+# [People+Organizations+Journals+Blogs](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/Organizations%20&%20Journals)
+
  [Albert Einstein](https://einsteinpapers.press.princeton.edu/)
 
  [Richard Feynman](http://www.feynman.com/)

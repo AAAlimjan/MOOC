@@ -7,11 +7,23 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
 - 高等数学：https://next.xuetangx.com/course/SXPI11111000464/1157975
 - 线性代数：https://next.xuetangx.com/course/SDU07011000459/1075690
 
-# [Physics](https://github.com/AAAlimjan/stuff2019/tree/master/Physics)
-
-# [Engineering](https://github.com/AAAlimjan/ComingBack/tree/master/EnergyEngineering)
+# [Physics & Engineering](https://github.com/AAAlimjan/stuff2019/tree/master/Physics)
 
 - Crash Course: Engineering
+
+# [Social Sciences & Business](https://github.com/AAAlimjan/ComingBack/tree/master/Social%20Sciences)
+
+- Crash Course: Sociology 
+
+-  Crash Course: Philosophy
+- General Philosophy (University of Oxford)
+- Crash Course: World History
+- Crash Course: Big History 
+- Crash Course: Economics
+
+# [Reading, Writing & Literature](https://github.com/AAAlimjan/ComingBack/tree/master/Reading%20Challenge)
+
+ -  Reading list: https://aaalimjan.github.io/Reading-List/ 
 
 # [Computer Science ](https://github.com/AAAlimjan/ComingBack/tree/master/Coding)
 
@@ -20,33 +32,11 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
  - [C语言入门](https://www.imooc.com/learn/249)，慕课
 - [版本控制入门 – 搬进 Github](https://www.imooc.com/learn/390)，慕课
 - [HTML5&CSS实战课](https://www.w3cschool.cn/codecamp/list?pename=html5_and_css_camp)，W3C School
-- 
 
-# [Language Studies](https://github.com/AAAlimjan/ComingBack/tree/master/Studying%20Russian)
-
-# [Social Sciences](https://github.com/AAAlimjan/ComingBack/tree/master/Social%20Sciences)
-
--Crash Course: Sociology 
--  Crash Course: Philosophy
-- General Philosophy (University of Oxford)
-- Crash Course: World History
-- Crash Course: Big History 
-- Crash Course: Economics
-
-# [Reading+Writing](https://github.com/AAAlimjan/ComingBack/tree/master/Reading%20Challenge) 
-
- -  1.三体
- -  2.薛兆丰经济学讲义
-
-# [GRE](https://github.com/AAAlimjan/ComingBack/tree/master/GRE)
-
-# [TOEFL](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/TOEFL) 
-
-# [MOOC](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/MOOC)
+# [GRE & TOEFL](https://github.com/AAAlimjan/ComingBack/tree/master/GRE)
 
 
-
-# [People+Organizations+Journals+Blogs](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/Organizations%20&%20Journals)
+# [Languages](https://github.com/AAAlimjan/ComingBack/tree/master/Studying%20Russian)
 
 # [Ideas&Tools](https://github.com/AAAlimjan/Study-Projects/tree/master/Fun)
 
