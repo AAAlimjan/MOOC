@@ -7,4 +7,5 @@
 2. Catalogue & Subtitles: https://thecrashcourse.com/courses/economics
 3. Chinese Sub Catalogue: https://crashcourse.club/
 4. Crash Course Criticism: http://www.crashcoursecriticism.com/
+5. English Subtitle: https://nerdfighteria.info/cat/358
 
