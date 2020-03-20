@@ -19,7 +19,7 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
 - General Philosophy (University of Oxford)
 - Crash Course: World History
 - Crash Course: Big History 
-- Crash Course: Economics  ([Source](https://www.bilibili.com/video/av28121647))（[Notes](https://github.com/AAAlimjan/Study-Projects/blob/master/Social Sciences %26 Business/2020319-CrashCourseEconomics-notes.pdf)）
+- Crash Course: Economics  ([Source](https://www.bilibili.com/video/av28121647))([Notes](https://github.com/AAAlimjan/Study-Projects/blob/master/Social Sciences %26 Business/2020319-CrashCourseEconomics-notes.pdf))
 
 # [Reading, Writing & Literature](https://github.com/AAAlimjan/ComingBack/tree/master/Reading%20Challenge)
 
