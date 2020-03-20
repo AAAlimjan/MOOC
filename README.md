@@ -13,13 +13,13 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
 
 # [Social Sciences & Business](https://github.com/AAAlimjan/ComingBack/tree/master/Social%20Sciences)
 
+- Justice: What Is The Right Thing To Do (Harvard University)
 - Crash Course: Sociology 
-
 -  Crash Course: Philosophy
 - General Philosophy (University of Oxford)
 - Crash Course: World History
 - Crash Course: Big History 
-- Crash Course: Economics
+- Crash Course: Economics  ([Source](https://www.bilibili.com/video/av28121647))（[Notes](https://github.com/AAAlimjan/Study-Projects/blob/master/Social Sciences %26 Business/2020319-CrashCourseEconomics-notes.pdf)）
 
 # [Reading, Writing & Literature](https://github.com/AAAlimjan/ComingBack/tree/master/Reading%20Challenge)
 
@@ -35,12 +35,14 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
 
 # [GRE & TOEFL](https://github.com/AAAlimjan/ComingBack/tree/master/GRE)
 
-
 # [Languages](https://github.com/AAAlimjan/ComingBack/tree/master/Studying%20Russian)
+
+- College Russian（ing）
 
 # [Ideas&Tools](https://github.com/AAAlimjan/Study-Projects/tree/master/Fun)
 
 -  [英文科技论文写作与学术报告](https://next.xuetangx.com/course/XJTU08081000424/1073727), 清华大学
+-  Crash Course: Study Skills
 
 # Health&Well-Being
 
