@@ -10,6 +10,8 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
 # [Physics & Engineering](https://github.com/AAAlimjan/stuff2019/tree/master/Physics)
 
 - Crash Course: Engineering
+- Energy &Environment(Princeton University) [(Video)](http://open.163.com/newview/movie/free?pid=M6G3TB39I&mid=M6G3TSICQ)
+-  Information and Entropy(MIT) [(Video)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/)
 
 # [Social Sciences & Business](https://github.com/AAAlimjan/ComingBack/tree/master/Social%20Sciences)
 
@@ -20,6 +22,11 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
 - Crash Course: World History
 - Crash Course: Big History 
 - Crash Course: Economics  [(Video)](https://www.bilibili.com/video/av28121647)  [(Notes)](https://github.com/AAAlimjan/Study-Projects/blob/master/Social Sciences %26 Business/2020319-CrashCourseEconomics-notes.pdf)
+- Understandingthe Global Economy(University of Chicago) [(Video)](https://open.163.com/newview/movie/free?pid=M7CTG28EO&mid=M7DFVQI4A)
+- Foresight(University of Cambridge)  [(Video)](https://open.163.com/newview/movie/free?pid=MB7MDCRU9&mid=MB7MDN5PF)
+- 如何理解中国人的心理与行为(南京大学)[(视频)](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fcuvocw%2Fzhongguorendexinli.html)
+- Politics in 60 Seconds(University of Nottingham)[(Video)](https://open.163.com/newview/movie/free?pid=M95G0EKBI&mid=M95Q484CN)
+- Law (Stanford University)[(Video)](https://www.bilibili.com/video/av5205967/)
 
 # [Reading, Writing & Literature](https://github.com/AAAlimjan/ComingBack/tree/master/Reading%20Challenge)
 
@@ -44,6 +51,16 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
 -  [英文科技论文写作与学术报告](https://next.xuetangx.com/course/XJTU08081000424/1073727), 清华大学
 -  Crash Course: Study Skills
 -  Crash Course: Media Literacy
+-  Positive Psychology(Harvard University)[(Video)](https://www.bilibili.com/video/BV1Gs411o71d)
+-  Thinking Big(Harvard University)[(Video)](https://open.163.com/newview/movie/free?pid=M83EO6IRQ&mid=M83EQT3JN)
 
 # Health&Well-Being
+
+# Fun
+
+West World: https://ddrk.me/westworld/2/
+
+ [The Great Math Mystery](https://www.bilibili.com/video/BV1vs411d73j)
+
+[资本的故事](https://www.bilibili.com/video/BV1mW411J7ED)
 

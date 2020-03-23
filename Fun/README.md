@@ -1,14 +1,13 @@
-**Interesting  Projects**
+[TOC]
+# **Interesting  Projects**
 
  https://octodex.github.com/
 
 [testbrowsersafety](https://panopticlick.eff.org/)
 
-**TV&Movie ect**
+# **Design:**
 
-WestWorld: https://ddrk.me/westworld/2/
-
-design:https://dribbble.com
+https://dribbble.com
 
 https://uiiiuiii.com/all
 
@@ -24,11 +23,7 @@ https://tiddlywiki.com/
 
 https://www.dokuwiki.org/dokuwiki
 
-
-
-
-
-
+# Sources
 
 [MIT OCW](https://ocw.mit.edu/index.htm)
 
@@ -43,6 +38,8 @@ https://www.dokuwiki.org/dokuwiki
 [Yale Open Courses](https://oyc.yale.edu/courses)
 
 [Stanford Lagunita](https://lagunita.stanford.edu/)
+
+[Academiac Earth](https://academicearth.org/)
 
 [网易公开课](https://open.163.com/)
 
@@ -60,3 +57,20 @@ https://www.dokuwiki.org/dokuwiki
 
 [慕课网-程序员梦工厂](https://www.imooc.com/)
 
+------
+
+**Film,Movie& Documentary**
+
+https://www.zxzj.me/
+
+https://www.osqqz.com/
+
+https://www.kmahua.com/
+
+http://www.zimuxia.cn/
+
+West World: https://ddrk.me/westworld/2/
+
+ [克劳德 . 香农：信息时代之父](https://v.youku.com/v_show/id_XMTUyMzY0MDgzNg==.html?spm=a2h0k.11417342.soresults.dtitle)
+
+ [旷世奇才，图灵的传奇！](https://www.bilibili.com/video/BV1tx411V7yQ/)
