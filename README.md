@@ -12,6 +12,7 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
 - Crash Course: Engineering
 - Energy &Environment(Princeton University) [(Video)](http://open.163.com/newview/movie/free?pid=M6G3TB39I&mid=M6G3TSICQ)
 -  Information and Entropy(MIT) [(Video)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/)
+-  
 
 # [Social Sciences & Business](https://github.com/AAAlimjan/ComingBack/tree/master/Social%20Sciences)
 
@@ -27,6 +28,8 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
 - 如何理解中国人的心理与行为(南京大学)[(视频)](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fcuvocw%2Fzhongguorendexinli.html)
 - Politics in 60 Seconds(University of Nottingham)[(Video)](https://open.163.com/newview/movie/free?pid=M95G0EKBI&mid=M95Q484CN)
 - Law (Stanford University)[(Video)](https://www.bilibili.com/video/av5205967/)
+- Death(Yale University) [(Official)](https://oyc.yale.edu/death/phil-176)
+- Fundamentals of Physics ([1](https://oyc.yale.edu/physics/phys-200))([2](https://oyc.yale.edu/physics/phys-201))
 
 # [Reading, Writing & Literature](https://github.com/AAAlimjan/ComingBack/tree/master/Reading%20Challenge)
 
