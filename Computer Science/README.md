@@ -37,7 +37,9 @@ https://coding.net/
 
 GitHub decoration：(https://shields.io/#/)
 
-Emoji：（https://emoji.muan.co）
+Emoji：https://www.webfx.com/tools/emoji-cheat-sheet/
+
+（https://emoji.muan.co）
 
 EndNote:
 
@@ -48,4 +50,3 @@ Gitee ：Chinese GitHub copycat (https://gitee.com/)
 Chocolatey: https://chocolatey.org/packages/
 
 https://mlcourse.ai/
-
