@@ -57,6 +57,8 @@ https://www.dokuwiki.org/dokuwiki
 
 [慕课网-程序员梦工厂](https://www.imooc.com/)
 
+[Nobel prize ceremonies](https://www.nobelprize.org/nobel-prize-award-ceremonies/)
+
 ------
 
 **Film,Movie& Documentary**
@@ -75,3 +77,4 @@ West World: https://ddrk.me/westworld/2/
 
  [旷世奇才，图灵的传奇！](https://www.bilibili.com/video/BV1tx411V7yQ/)
 
+Nobel Minds 2017
