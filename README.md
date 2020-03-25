@@ -6,22 +6,29 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
 - 吉米多维奇数学分析习题集
 - 高等数学：https://next.xuetangx.com/course/SXPI11111000464/1157975
 - 线性代数：https://next.xuetangx.com/course/SDU07011000459/1075690
+- [Crash Course: Statistics](https://www.bilibili.com/video/BV17W411s7Y5)
 
-# [Physics & Engineering](https://github.com/AAAlimjan/stuff2019/tree/master/Physics)
+# [Science & Engineering](https://github.com/AAAlimjan/stuff2019/tree/master/Physics)
 
+- Vibration and Waves(MIT)[(Video)](https://www.bilibili.com/video/BV1Fb411j7H3)
 - Crash Course: Engineering
 - Energy &Environment(Princeton University) [(Video)](http://open.163.com/newview/movie/free?pid=M6G3TB39I&mid=M6G3TSICQ)
 -  Information and Entropy(MIT) [(Video)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/)
--  
+-  [Fundamentals of Physics](https://www.bilibili.com/video/BV1Jx411a78t)(Yale University)
+-  [Crash Course: Chemistry](https://www.bilibili.com/video/BV1st411v72w)
+-  [Crash Course: Physics](https://www.bilibili.com/video/BV1Wt411v7NC)
+-  [Crash Course: Ecology](https://www.bilibili.com/video/BV1GW411S7EX)
+-  [Crash Course: Biology](https://www.bilibili.com/video/BV1Px41117N2)
 
 # [Social Sciences & Business](https://github.com/AAAlimjan/ComingBack/tree/master/Social%20Sciences)
 
 - Justice: What Is The Right Thing To Do (Harvard University)
-- Crash Course: Sociology 
+- [Crash Course: Sociology](https://www.bilibili.com/video/BV1Ux411k76Z) 
 -  Crash Course: Philosophy [(Video)](https://www.bilibili.com/video/av13762839) [(Notes)](https://github.com/AAAlimjan/Study-Projects/blob/master/Social%20Sciences%20%26%20Business/2020-3-19%20crashcourse-philosophy-notes-compressed.pdf)
 - General Philosophy (University of Oxford)
-- Crash Course: World History
-- Crash Course: Big History 
+- [Crash Course: World History](https://www.bilibili.com/video/BV1Ws41197rQ)
+- [Crash Course: Big History 1](https://www.bilibili.com/video/BV1ws411w78L)
+- [Crash Course: Big History  2](https://www.bilibili.com/video/BV1mx411B77E)
 - Crash Course: Economics  [(Video)](https://www.bilibili.com/video/av28121647)  [(Notes)](https://github.com/AAAlimjan/Study-Projects/blob/master/Social Sciences %26 Business/2020319-CrashCourseEconomics-notes.pdf)
 - Understandingthe Global Economy(University of Chicago) [(Video)](https://open.163.com/newview/movie/free?pid=M7CTG28EO&mid=M7DFVQI4A)
 - Foresight(University of Cambridge)  [(Video)](https://open.163.com/newview/movie/free?pid=MB7MDCRU9&mid=MB7MDN5PF)
@@ -42,8 +49,11 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
  - [C语言入门](https://www.imooc.com/learn/249)，慕课
 - [版本控制入门 – 搬进 Github](https://www.imooc.com/learn/390)，慕课
 - [HTML5&CSS实战课](https://www.w3cschool.cn/codecamp/list?pename=html5_and_css_camp)，W3C School
+- [Crash Course:Computer Science](https://www.bilibili.com/video/BV1EW411u7th)
 
 # [GRE & TOEFL](https://github.com/AAAlimjan/ComingBack/tree/master/GRE)
+
+- [GRE 写作](https://www.bilibili.com/video/BV1Es411k7QM)
 
 # [Languages](https://github.com/AAAlimjan/ComingBack/tree/master/Studying%20Russian)
 
@@ -52,10 +62,13 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
 # [Ideas&Tools](https://github.com/AAAlimjan/Study-Projects/tree/master/Fun)
 
 -  [英文科技论文写作与学术报告](https://next.xuetangx.com/course/XJTU08081000424/1073727), 清华大学
--  Crash Course: Study Skills
--  Crash Course: Media Literacy
+-  [Crash Course: Study Skills](https://www.bilibili.com/video/BV1bW411a7oM)
+-  [Crash Course: Media Literacy](https://www.bilibili.com/video/BV1Vt411d7K7)
+-  Crash Course: Navigating Digital Information[(Video)](https://www.bilibili.com/video/BV1yt411L72d)
 -  Positive Psychology(Harvard University)[(Video)](https://www.bilibili.com/video/BV1Gs411o71d)
 -  Thinking Big(Harvard University)[(Video)](https://open.163.com/newview/movie/free?pid=M83EO6IRQ&mid=M83EQT3JN)
+-  Feeling and Imagination in Art, Science & Technology(MIT) [(Video)](http://open.sina.com.cn/course/id_302/)
+-  Innovation and Invention(MIT)[(Video)](http://open.sina.com.cn/course/id_257/)
 
 # Health&Well-Being
 
@@ -67,3 +80,4 @@ West World: https://ddrk.me/westworld/2/
 
 [资本的故事](https://www.bilibili.com/video/BV1mW411J7ED)
 
+[PBS Space Time](https://www.bilibili.com/video/BV1nt41167AB)

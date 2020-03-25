@@ -1,5 +1,5 @@
 [TOC]
-# **Interesting  Projects**
+# Fun Projects**
 
  https://octodex.github.com/
 
@@ -23,7 +23,7 @@ https://tiddlywiki.com/
 
 https://www.dokuwiki.org/dokuwiki
 
-# Sources
+# Open Courses Sources
 
 [MIT OCW](https://ocw.mit.edu/index.htm)
 
@@ -33,6 +33,10 @@ https://www.dokuwiki.org/dokuwiki
 
 [学堂在线](https://next.xuetangx.com/)
 
+[网易公开课](https://open.163.com/)
+
+[新浪公开课](http://open.sina.com.cn/)
+
 [edX](https://www.edx.org/)
 
 [Yale Open Courses](https://oyc.yale.edu/courses)
@@ -40,8 +44,6 @@ https://www.dokuwiki.org/dokuwiki
 [Stanford Lagunita](https://lagunita.stanford.edu/)
 
 [Academiac Earth](https://academicearth.org/)
-
-[网易公开课](https://open.163.com/)
 
 [公开课目录](http://v.qq.com/zt2011/open/index.htm)
 
