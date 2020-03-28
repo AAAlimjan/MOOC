@@ -69,12 +69,17 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
 -  Thinking Big(Harvard University)[(Video)](https://open.163.com/newview/movie/free?pid=M83EO6IRQ&mid=M83EQT3JN)
 -  Feeling and Imagination in Art, Science & Technology(MIT) [(Video)](http://open.sina.com.cn/course/id_302/)
 -  Innovation and Invention(MIT)[(Video)](http://open.sina.com.cn/course/id_257/)
+-  [许岑: 如何成为有效学习的高手 (得到)](https://www.igetget.com/course/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E6%9C%89%E6%95%88%E5%AD%A6%E4%B9%A0%E7%9A%84%E9%AB%98%E6%89%8B?param=L8gFXHBfD8&token=alQr3o4dMw8ZKgafrJ7N2xDyWeEq1R)
+-  [许岑: 有效训练你的研究能力 (得到)](https://www.igetget.com/course/%E6%9C%89%E6%95%88%E8%AE%AD%E7%BB%83%E4%BD%A0%E7%9A%84%E7%A0%94%E7%A9%B6%E8%83%BD%E5%8A%9B?param=L8gFXHBfD8&token=3jvwNqE9ZL10K40fwKG7Pp8mDnRWoa)
 
 # Health&Well-Being
 
+- [童慧琦: 怎样学会正念冥想(得到)](https://www.igetget.com/course/%E6%80%8E%E6%A0%B7%E5%AD%A6%E4%BC%9A%E6%AD%A3%E5%BF%B5%E5%86%A5%E6%83%B3?param=pYntqSPf21&token=L6mQARNzM8r1KQ3fDNJe3dGOg0aPon)
+- [张遇升: 怎样健康活过100岁(得到)](https://www.igetget.com/course/%E6%80%8E%E6%A0%B7%E5%81%A5%E5%BA%B7%E6%B4%BB%E8%BF%87100%E5%B2%81?param=YEwhWT0fJG&token=eYE36g8pDr7WJoaf5mKP4Z5Rlwjy0z)
+
 # Fun
 
-West World: https://ddrk.me/westworld/2/
+TV: https://ddrk.me/westworld/2/
 
  [The Great Math Mystery](https://www.bilibili.com/video/BV1vs411d73j)
 
