@@ -1,4 +1,3 @@
-this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-Notes-2019/projects) and [Project-Notes](https://github.com/AAAlimjan/Study-Notes-2019/wiki)
 [TOC]
 ------
 # [Mathematics](https://github.com/AAAlimjan/ComingBack/tree/master/Mathematics)
@@ -87,10 +86,7 @@ this is a study project menu, see [Progress](https://github.com/AAAlimjan/Study-
 
 # Fun
 
-[West World](https://ddrk.me/westworld/2/) 
-
- [The Great Math Mystery](https://www.bilibili.com/video/BV1vs411d73j)
-
-[资本的故事](https://www.bilibili.com/video/BV1mW411J7ED)
-
-[PBS Space Time](https://www.bilibili.com/video/BV1nt41167AB)
+- [West World](https://ddrk.me/westworld/2/) 
+-  [The Great Math Mystery](https://www.bilibili.com/video/BV1vs411d73j)
+- [资本的故事](https://www.bilibili.com/video/BV1mW411J7ED)
+- [PBS Space Time](https://www.bilibili.com/video/BV1nt41167AB)
