@@ -86,7 +86,7 @@
 - [童慧琦: 怎样学会正念冥想(得到)](https://www.igetget.com/course/%E6%80%8E%E6%A0%B7%E5%AD%A6%E4%BC%9A%E6%AD%A3%E5%BF%B5%E5%86%A5%E6%83%B3?param=pYntqSPf21&token=L6mQARNzM8r1KQ3fDNJe3dGOg0aPon)
 - [张遇升: 怎样健康活过100岁(得到)](https://www.igetget.com/course/%E6%80%8E%E6%A0%B7%E5%81%A5%E5%BA%B7%E6%B4%BB%E8%BF%87100%E5%B2%81?param=YEwhWT0fJG&token=eYE36g8pDr7WJoaf5mKP4Z5Rlwjy0z)
 
-# Fun
+# Fun+
 
 - [West World](https://ddrk.me/westworld/2/) 
 -  [The Great Math Mystery](https://www.bilibili.com/video/BV1vs411d73j)
