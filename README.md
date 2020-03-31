@@ -3,8 +3,7 @@
 [TOC]
 
 # [Mathematics](https://github.com/AAAlimjan/ComingBack/tree/master/Mathematics)
-
-- 吉米多维奇数学分析习题集
+- 吉米多维奇数学分析习题集[(进度)](https://dynalist.io/d/GIm-Gnstg_u792He3ld1x9A7)
 - [高等数学(陕西工业职业技术学院)](https://next.xuetangx.com/course/SXPI11111000464/1157975) 
 - [线性代数(山东大学)](https://next.xuetangx.com/course/SDU07011000459/1075690)
 - [Crash Course: Statistics](https://www.bilibili.com/video/BV17W411s7Y5)
