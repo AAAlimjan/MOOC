@@ -10,7 +10,7 @@
 - [Single Variable Calculus(MIT)](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
 - [Multivariable Calculus(MIT)](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
 - [Linear Algebra(MIT)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
-- [Linear Algebra TA (MIT)](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fmitxianxingdaishuxitike.html)
+- [Linear Algebra with TA (MIT)](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fmitxianxingdaishuxitike.html)
 - [Differential Equations(MIT)](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/index.htm)
 
 # [Science & Engineering](https://github.com/AAAlimjan/stuff2019/tree/master/Physics)
@@ -51,7 +51,11 @@
 
 # [Reading, Writing & Literature](https://github.com/AAAlimjan/ComingBack/tree/master/Reading%20Challenge)
 
- -  [Reading list](https://aaalimjan.github.io/Reading-List/)
+ -  [Reading list](https://aaalimjan.github.io/Reading/)
+ -  [英文科技论文写作与学术报告 (清华大学)](https://next.xuetangx.com/course/XJTU08081000424/1073727)
+ -  [Principles of Written Communication(UC Berkeley)](https://next.xuetangx.com/course/UCBERKELEYX05021000170/1075235)
+-  [Principles of Written English(UC Berkeley)](https://next.xuetangx.com/course/UCBERKELEYX05021000172/1075209)
+-  [College Writing(UC Berkeley)](https://next.xuetangx.com/course/UCBERKELEYX05021000171/1075232)
 
 # [Computer Science ](https://github.com/AAAlimjan/ComingBack/tree/master/Coding)
 
@@ -65,9 +69,6 @@
 # [GRE & TOEFL](https://github.com/AAAlimjan/ComingBack/tree/master/GRE)
 
 - [GRE 写作](https://www.bilibili.com/video/BV1Es411k7QM)
-- [Principles of Written Communication(UC Berkeley)](https://next.xuetangx.com/course/UCBERKELEYX05021000170/1075235)
-- [Principles of Written English(UC Berkeley)](https://next.xuetangx.com/course/UCBERKELEYX05021000172/1075209)
-- [College Writing(UC Berkeley)](https://next.xuetangx.com/course/UCBERKELEYX05021000171/1075232)
 
 # [Languages](https://github.com/AAAlimjan/ComingBack/tree/master/Studying%20Russian)
 
@@ -75,7 +76,6 @@
 
 # [Ideas&Tools](https://github.com/AAAlimjan/Study-Projects/tree/master/Fun)
 
--  [英文科技论文写作与学术报告 (清华大学)](https://next.xuetangx.com/course/XJTU08081000424/1073727)
 -  [Crash Course: Study Skills](https://www.bilibili.com/video/BV1bW411a7oM)
 -  [Crash Course: Media Literacy](https://www.bilibili.com/video/BV1Vt411d7K7)
 -  [Crash Course: Navigating Digital Information](https://www.bilibili.com/video/BV1yt411L72d)
@@ -87,7 +87,6 @@
 -  [许岑: 有效训练你的研究能力 (得到)](https://www.igetget.com/course/%E6%9C%89%E6%95%88%E8%AE%AD%E7%BB%83%E4%BD%A0%E7%9A%84%E7%A0%94%E7%A9%B6%E8%83%BD%E5%8A%9B?param=L8gFXHBfD8&token=3jvwNqE9ZL10K40fwKG7Pp8mDnRWoa)
 -  [Introduction to Intellectual Property(The University of Arizona)](http://open.163.com/newview/movie/free?pid=M8FGU9TKR&mid=M8FGUS637)
 -  [Media, Education and Market(MIT)](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Feducation.html)
--  [Harvard Think Big(Harvard University)](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fthinks.html)
 
 # Health&Well-Being
 
