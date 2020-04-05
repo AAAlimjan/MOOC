@@ -10,10 +10,12 @@
 - [Single Variable Calculus(MIT)](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
 - [Multivariable Calculus(MIT)](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
 - [Linear Algebra(MIT)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+- [Linear Algebra TA (MIT)](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fmitxianxingdaishuxitike.html)
 - [Differential Equations(MIT)](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/index.htm)
 
 # [Science & Engineering](https://github.com/AAAlimjan/stuff2019/tree/master/Physics)
 
+- [Classical Mechanics PS(MIT)](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fjingdianlixuexitike.html)
 - [Vibration and Waves (MIT)](https://www.bilibili.com/video/BV1Fb411j7H3)
 - Crash Course: Engineering
 - [Thermodynamics & Kinetics](https://ocw.mit.edu/courses/chemistry/5-60-thermodynamics-kinetics-spring-2008/)
@@ -24,6 +26,8 @@
 -  [Crash Course: Physics](https://www.bilibili.com/video/BV1Wt411v7NC)
 -  [Crash Course: Ecology](https://www.bilibili.com/video/BV1GW411S7EX)
 -  [Crash Course: Biology](https://www.bilibili.com/video/BV1Px41117N2)
+-  [Blueprint of Energy Efficiency(Yale University)](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fblueprintefficiency.html)
+-  [The Soundsof Music(MIT)](http://open.163.com/newview/movie/free?pid=M6GLVTL1C&mid=M6GM0KQTA)
 
 # [Social Sciences & Business](https://github.com/AAAlimjan/ComingBack/tree/master/Social%20Sciences)
 
@@ -42,6 +46,8 @@
 - [Law (Stanford University)](https://www.bilibili.com/video/av5205967/)
 - [Death(Yale University)](https://oyc.yale.edu/death/phil-176)
 -  [Principles of Microeconomics(MIT)](https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/)
+-  [Torture, Law and War(University of Chicago)](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Ftorture.html)
+-  [Lectures on Law(Cornell University)](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fcornelllaw.html)
 
 # [Reading, Writing & Literature](https://github.com/AAAlimjan/ComingBack/tree/master/Reading%20Challenge)
 
@@ -79,15 +85,11 @@
 -  [Innovation and Invention(MIT)](http://open.sina.com.cn/course/id_257/)
 -  [许岑: 如何成为有效学习的高手 (得到)](https://www.igetget.com/course/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E6%9C%89%E6%95%88%E5%AD%A6%E4%B9%A0%E7%9A%84%E9%AB%98%E6%89%8B?param=L8gFXHBfD8&token=alQr3o4dMw8ZKgafrJ7N2xDyWeEq1R)
 -  [许岑: 有效训练你的研究能力 (得到)](https://www.igetget.com/course/%E6%9C%89%E6%95%88%E8%AE%AD%E7%BB%83%E4%BD%A0%E7%9A%84%E7%A0%94%E7%A9%B6%E8%83%BD%E5%8A%9B?param=L8gFXHBfD8&token=3jvwNqE9ZL10K40fwKG7Pp8mDnRWoa)
+-  [Introduction to Intellectual Property(The University of Arizona)](http://open.163.com/newview/movie/free?pid=M8FGU9TKR&mid=M8FGUS637)
+-  [Media, Education and Market(MIT)](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Feducation.html)
+-  [Harvard Think Big(Harvard University)](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fthinks.html)
 
 # Health&Well-Being
 
 - [童慧琦: 怎样学会正念冥想(得到)](https://www.igetget.com/course/%E6%80%8E%E6%A0%B7%E5%AD%A6%E4%BC%9A%E6%AD%A3%E5%BF%B5%E5%86%A5%E6%83%B3?param=pYntqSPf21&token=L6mQARNzM8r1KQ3fDNJe3dGOg0aPon)
 - [张遇升: 怎样健康活过100岁(得到)](https://www.igetget.com/course/%E6%80%8E%E6%A0%B7%E5%81%A5%E5%BA%B7%E6%B4%BB%E8%BF%87100%E5%B2%81?param=YEwhWT0fJG&token=eYE36g8pDr7WJoaf5mKP4Z5Rlwjy0z)
-
-# Fun+
-
-- [West World](https://ddrk.me/westworld/2/) 
--  [The Great Math Mystery](https://www.bilibili.com/video/BV1vs411d73j)
-- [资本的故事](https://www.bilibili.com/video/BV1mW411J7ED)
-- [PBS Space Time](https://www.bilibili.com/video/BV1nt41167AB)
