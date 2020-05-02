@@ -66,6 +66,7 @@
 - [W3C: HTML& CSS、JS、Bootstrap实战课](https://www.w3cschool.cn/codecamp/list)
 - [Crash Course: Computer Science](https://www.bilibili.com/video/BV1EW411u7th)
 - [Introduction to Computer Science and Programming in Python(MIT)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm)
+- [MIT: Deep learning](https://www.bilibili.com/video/BV1tt411v75H/?spm_id_from=trigger_reload)
 
 # [GRE & TOEFL](https://github.com/AAAlimjan/ComingBack/tree/master/GRE)
 
