@@ -63,6 +63,7 @@
  - [HTML ](https://www.runoob.com/html/html-tutorial.html)
  - [C语言入门(慕课)](https://www.imooc.com/learn/249)
 - [版本控制入门 – 搬进 Github(慕课)](https://www.imooc.com/learn/390)
+- [Udacity: Python 入门](https://classroom.udacity.com/courses/ud1110)
 - [W3C: HTML& CSS、JS、Bootstrap实战课](https://www.w3cschool.cn/codecamp/list)
 - [Crash Course: Computer Science](https://www.bilibili.com/video/BV1EW411u7th)
 - [Introduction to Computer Science and Programming in Python(MIT)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm)
