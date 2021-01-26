@@ -26,6 +26,7 @@
 -  [Crash Course: Physics](https://www.bilibili.com/video/BV1Wt411v7NC)
 -  [Crash Course: Ecology](https://www.bilibili.com/video/BV1GW411S7EX)
 -  [Crash Course: Biology](https://www.bilibili.com/video/BV1Px41117N2)
+-  [Crash Course:Biology](https://www.bilibili.com/video/BV1es411B74L)
 -  [Blueprint of Energy Efficiency(Yale University)](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fblueprintefficiency.html)
 -  [The Soundsof Music(MIT)](http://open.163.com/newview/movie/free?pid=M6GLVTL1C&mid=M6GM0KQTA)
 
@@ -39,6 +40,12 @@
 - [Crash Course: Big History 1](https://www.bilibili.com/video/BV1ws411w78L)
 - [Crash Course: Big History  2](https://www.bilibili.com/video/BV1mx411B77E)
 - [Crash Course: Economics](https://www.bilibili.com/video/av28121647)  [(Notes)](https://github.com/AAAlimjan/Study-Projects/blob/master/Social Sciences %26 Business/2020319-CrashCourseEconomics-notes.pdf)
+- [Crah Course:Entrepreneurship](https://www.bilibili.com/video/BV1r741167Kd)
+- [Crash Course: Games](https://www.bilibili.com/video/BV1tW411s7Py)
+- [Crash Course:World Mythology](https://www.bilibili.com/video/BV17x411y73F)
+- [Crash Course:Literature](https://www.bilibili.com/video/BV1aE411b7eY)
+- [Crash Course: Linguistics](https://www.bilibili.com/video/BV1bv411s7wX)
+- [Crash Course:Film History](https://www.bilibili.com/video/BV1Bx411s7H3)
 - [Understandingthe Global Economy(University of Chicago)](https://open.163.com/newview/movie/free?pid=M7CTG28EO&mid=M7DFVQI4A)
 - [Foresight(University of Cambridge)](https://open.163.com/newview/movie/free?pid=MB7MDCRU9&mid=MB7MDN5PF)
 - [如何理解中国人的心理与行为(南京大学)](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fcuvocw%2Fzhongguorendexinli.html)
@@ -48,6 +55,9 @@
 -  [Principles of Microeconomics(MIT)](https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/)
 -  [Torture, Law and War(University of Chicago)](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Ftorture.html)
 -  [Lectures on Law(Cornell University)](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fcornelllaw.html)
+-  [犹太人的故事](https://www.bilibili.com/bangumi/play/ss27671?spm_id_from=333.788.videocard.1)
+-  [中国通史](https://www.bilibili.com/video/BV1Ct411u7Yr)
+-  [讲故事的艺术](https://www.bilibili.com/video/BV1jE411J7hk?p=12)
 
 # [Reading, Writing & Literature](https://github.com/AAAlimjan/ComingBack/tree/master/Reading%20Challenge)
 
@@ -68,6 +78,7 @@
 - [Crash Course: Computer Science](https://www.bilibili.com/video/BV1EW411u7th)
 - [Introduction to Computer Science and Programming in Python(MIT)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm)
 - [MIT: Deep learning](https://www.bilibili.com/video/BV1tt411v75H/?spm_id_from=trigger_reload)
+- [CrashCourse:AI](https://www.bilibili.com/video/BV1AC4y1x77d)
 
 # [GRE & TOEFL](https://github.com/AAAlimjan/ComingBack/tree/master/GRE)
 
