@@ -35,8 +35,8 @@
 
 # [Social Sciences & Business](https://github.com/AAAlimjan/ComingBack/tree/master/Social%20Sciences)
 
-- Justice: What Is The Right Thing To Do (Harvard University)✔
-- General Philosophy (University of Oxford)✔
+- [Justice: What Is The Right Thing To Do (Harvard University)](https://www.bilibili.com/video/BV1wx411S7fK)✔
+- [General Philosophy (University of Oxford)](https://www.bilibili.com/video/BV1zs41187Y2)✔
 - [Crash Course: Sociology](https://www.bilibili.com/video/BV1Ux411k76Z) ✔
 -  [Crash Course: Philosophy ](https://www.bilibili.com/video/av13762839) [(Notes)](https://github.com/AAAlimjan/Study-Projects/blob/master/Social%20Sciences%20%26%20Business/2020-3-19%20crashcourse-philosophy-notes-compressed.pdf)✔
 - [Crash Course: World History](https://www.bilibili.com/video/BV1Ws41197rQ)✔
