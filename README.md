@@ -26,19 +26,22 @@
 -  [Crash Course: Physics](https://www.bilibili.com/video/BV1Wt411v7NC)
 -  [Crash Course: Ecology](https://www.bilibili.com/video/BV1GW411S7EX)
 -  [Crash Course: Biology](https://www.bilibili.com/video/BV1Px41117N2)
--  [Crash Course:Biology](https://www.bilibili.com/video/BV1es411B74L)
+-  [Crash Course:Engineering](https://www.bilibili.com/video/BV1d4411M7zP)
+-  [Crash Course:History of Science](https://www.bilibili.com/video/BV1CV411f7Yi)
+-  [Crash Course:Astronomy](https://www.bilibili.com/video/BV1es411B74L)
+-  [Crash Course: Anatomy&Physiology](https://www.bilibili.com/video/BV15s411i7Wx)
 -  [Blueprint of Energy Efficiency(Yale University)](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fblueprintefficiency.html)
 -  [The Soundsof Music(MIT)](http://open.163.com/newview/movie/free?pid=M6GLVTL1C&mid=M6GM0KQTA)
 
 # [Social Sciences & Business](https://github.com/AAAlimjan/ComingBack/tree/master/Social%20Sciences)
 
 - Justice: What Is The Right Thing To Do (Harvard University)
+- General Philosophy (University of Oxford)
 - [Crash Course: Sociology](https://www.bilibili.com/video/BV1Ux411k76Z) 
 -  [Crash Course: Philosophy ](https://www.bilibili.com/video/av13762839) [(Notes)](https://github.com/AAAlimjan/Study-Projects/blob/master/Social%20Sciences%20%26%20Business/2020-3-19%20crashcourse-philosophy-notes-compressed.pdf)
-- General Philosophy (University of Oxford)
 - [Crash Course: World History](https://www.bilibili.com/video/BV1Ws41197rQ)
-- [Crash Course: Big History 1](https://www.bilibili.com/video/BV1ws411w78L)
-- [Crash Course: Big History  2](https://www.bilibili.com/video/BV1mx411B77E)
+- [Crash Course: Big History1](https://www.bilibili.com/video/BV1ws411w78L)
+- [Crash Course: Big History2](https://www.bilibili.com/video/BV1mx411B77E)
 - [Crash Course: Economics](https://www.bilibili.com/video/av28121647)  [(Notes)](https://github.com/AAAlimjan/Study-Projects/blob/master/Social Sciences %26 Business/2020319-CrashCourseEconomics-notes.pdf)
 - [Crah Course:Entrepreneurship](https://www.bilibili.com/video/BV1r741167Kd)
 - [Crash Course: Games](https://www.bilibili.com/video/BV1tW411s7Py)
@@ -46,6 +49,7 @@
 - [Crash Course:Literature](https://www.bilibili.com/video/BV1aE411b7eY)
 - [Crash Course: Linguistics](https://www.bilibili.com/video/BV1bv411s7wX)
 - [Crash Course:Film History](https://www.bilibili.com/video/BV1Bx411s7H3)
+- [Crash Course: European History](https://www.bilibili.com/video/BV1XK411H7bK)
 - [Understandingthe Global Economy(University of Chicago)](https://open.163.com/newview/movie/free?pid=M7CTG28EO&mid=M7DFVQI4A)
 - [Foresight(University of Cambridge)](https://open.163.com/newview/movie/free?pid=MB7MDCRU9&mid=MB7MDN5PF)
 - [如何理解中国人的心理与行为(南京大学)](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fcuvocw%2Fzhongguorendexinli.html)
@@ -75,9 +79,9 @@
 - [版本控制入门 – 搬进 Github(慕课)](https://www.imooc.com/learn/390)
 - [Udacity: Python 入门](https://classroom.udacity.com/courses/ud1110)
 - [W3C: HTML& CSS、JS、Bootstrap实战课](https://www.w3cschool.cn/codecamp/list)
-- [Crash Course: Computer Science](https://www.bilibili.com/video/BV1EW411u7th)
 - [Introduction to Computer Science and Programming in Python(MIT)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm)
 - [MIT: Deep learning](https://www.bilibili.com/video/BV1tt411v75H/?spm_id_from=trigger_reload)
+- [Crash Course: Computer Science](https://www.bilibili.com/video/BV1EW411u7th)
 - [CrashCourse:AI](https://www.bilibili.com/video/BV1AC4y1x77d)
 
 # [GRE & TOEFL](https://github.com/AAAlimjan/ComingBack/tree/master/GRE)
@@ -86,13 +90,14 @@
 
 # [Languages](https://github.com/AAAlimjan/ComingBack/tree/master/Studying%20Russian)
 
-- College Russian
+- 
 
 # [Ideas&Tools](https://github.com/AAAlimjan/Study-Projects/tree/master/Fun)
 
 -  [Crash Course: Study Skills](https://www.bilibili.com/video/BV1bW411a7oM)
 -  [Crash Course: Media Literacy](https://www.bilibili.com/video/BV1Vt411d7K7)
 -  [Crash Course: Navigating Digital Information](https://www.bilibili.com/video/BV1yt411L72d)
+-  [Crash Course: Intellectual Property(IP)](https://www.bilibili.com/video/BV1M5411x7GQ)
 -  [Positive Psychology(Harvard University)](https://www.bilibili.com/video/BV1Gs411o71d)
 -  [Thinking Big(Harvard University)](https://open.163.com/newview/movie/free?pid=M83EO6IRQ&mid=M83EQT3JN)
 -  [Feeling and Imagination in Art, Science & Technology(MIT)](http://open.sina.com.cn/course/id_302/)
