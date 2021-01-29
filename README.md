@@ -38,7 +38,7 @@
 - Justice: What Is The Right Thing To Do (Harvard University)
 - General Philosophy (University of Oxford)
 - [Crash Course: Sociology](https://www.bilibili.com/video/BV1Ux411k76Z) 
--  [Crash Course: Philosophy ](https://www.bilibili.com/video/av13762839) [(Notes)](https://github.com/AAAlimjan/Study-Projects/blob/master/Social%20Sciences%20%26%20Business/2020-3-19%20crashcourse-philosophy-notes-compressed.pdf)
+-  [Crash Course: Philosophy ](https://www.bilibili.com/video/av13762839) [(Notes)](https://github.com/AAAlimjan/Study-Projects/blob/master/Social%20Sciences%20%26%20Business/2020-3-19%20crashcourse-philosophy-notes-compressed.pdf):dart:
 - [Crash Course: World History](https://www.bilibili.com/video/BV1Ws41197rQ)
 - [Crash Course: Big History1](https://www.bilibili.com/video/BV1ws411w78L)
 - [Crash Course: Big History2](https://www.bilibili.com/video/BV1mx411B77E)
