@@ -106,6 +106,7 @@
 -  [许岑: 有效训练你的研究能力 (得到)](https://www.igetget.com/course/%E6%9C%89%E6%95%88%E8%AE%AD%E7%BB%83%E4%BD%A0%E7%9A%84%E7%A0%94%E7%A9%B6%E8%83%BD%E5%8A%9B?param=L8gFXHBfD8&token=3jvwNqE9ZL10K40fwKG7Pp8mDnRWoa)✔
 -  [Introduction to Intellectual Property(The University of Arizona)](http://open.163.com/newview/movie/free?pid=M8FGU9TKR&mid=M8FGUS637)
 -  [Media, Education and Market(MIT)](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Feducation.html)
+-  [EXCEL高级应用](https://www.xuetangx.com/learn/hhvc08091001658/hhvc08091001658/5883232/video/9181902)
 
 # Health&Well-Being
 
