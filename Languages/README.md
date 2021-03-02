@@ -4,5 +4,5 @@
 * website:(http://www.russianforeveryone.com/)
 
 * College Russian volume1
-[Progeress](https://github.com/AAAlimjan/stuff2019/issues/6)
+[Progress](https://github.com/AAAlimjan/stuff2019/issues/6)
 
