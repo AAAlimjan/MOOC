@@ -41,10 +41,3 @@ MOOC CHINA（https://www.icourse163.org/search.htm?search=%E8%83%BD%E6%BA%90#/�
 [传热学-南航](http://gc.nuaa.edu.cn/heat/other/1.html)
 
 [传热学-辽大](http://mooc1.chaoxing.com/nodedetailcontroller/visitnodedetail?courseId=80587036&knowledgeId=80585505)
-
-
-
-Sean Carrol:https://www.preposterousuniverse.com/
-
-Max Tegmark:https://space.mit.edu/home/tegmark/home.html
-
