@@ -1,4 +1,4 @@
-#  People:
+# People:
 
 # [People+Organizations+Journals+Blogs](https://github.com/AAAlimjan/Study-Notes-2019/tree/master/Organizations%20&%20Journals)
 
@@ -34,7 +34,7 @@
 
 [Charlotte Minsky](https://charlotteminsky.com/)
 
-#  Schools & Communities
+# Schools & Communities
 
 [Stack Exchange](https://physics.stackexchange.com/)||[APS](https://www.aps.org/)||[小木虫](http://muchong.com/bbs/)||[科学网](http://www.sciencenet.cn/)||[未来科学奖](http://futureforum.org.cn/Home/nav/155.html)[Nobel Prize](https://www.nobelprize.org/)||[PISRA Library](http://pirsa.org/search)||[PI](https://insidetheperimeter.ca/)||[FQXI](https://fqxi.org/community)
 
@@ -93,4 +93,3 @@
 [ArtCyclopedia](http://www.artcyclopedia.com/)
 
 [看懂乐谱](https://www.songsterr.com/a/wsa/queen-bohemian-rhapsody-tab-s270t4)||[CNKI](http://dir.cnki.net/)||[ National Natural Science Foundation of China （NSFC）](http://or.nsfc.gov.cn/)||[Art station](https://www.artstation.com/)||[Linggle](http://linggle.com/)||[Free Text Books](http://www.collegeopentextbooks.org/physics-reviews/)
-

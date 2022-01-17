@@ -45,7 +45,7 @@ EndNote:
 
 V2EX: way to explore https://www.v2ex.com 
 
-Gitee ：Chinese GitHub copycat (https://gitee.com/)
+Gitee ：GitHub copycat (https://gitee.com/)
 
 Chocolatey: https://chocolatey.org/packages/
 
